@@ -1,0 +1,11 @@
+# Local working materials
+/project-docs/
+/tools/
+/.obsidian/
+/AGENTS.md
+
+# Temporary and OS files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
